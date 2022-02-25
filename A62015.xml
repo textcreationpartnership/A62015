@@ -1,0 +1,833 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the nobility and gentry lawyers and physicians, sea-men &amp; trades-men, magistrates subordinate and supreme, &amp;c. By Tho. Swadlin D.D.</title>
+            <author>Swadlin, Thomas, 1600-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 64 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62015</idno>
+            <idno type="STC">Wing S6229A</idno>
+            <idno type="STC">ESTC R220646</idno>
+            <idno type="EEBO-CITATION">99832042</idno>
+            <idno type="PROQUEST">99832042</idno>
+            <idno type="VID">36510</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62015)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36510)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2099:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the nobility and gentry lawyers and physicians, sea-men &amp; trades-men, magistrates subordinate and supreme, &amp;c. By Tho. Swadlin D.D.</title>
+                  <author>Swadlin, Thomas, 1600-1670.</author>
+               </titleStmt>
+               <extent>[8], 109, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the year 1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First leaf blank.</note>
+                  <note>Copy has considerable print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Quotations, maxims, etc. --  Protestant authors --  Early works to 1800.</term>
+               <term>Conduct of life --  Early works to 1800.</term>
+               <term>Christian ethics --  Anglican authors --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36510:1"/>
+            <p>TO THE NOBILITY AND GENTRY, Lawyers And Phyſicians, Sea-men &amp; Tradeſ-men, Magiſtrates
+<list>
+                  <item>Subordinate</item>
+                  <item>and</item>
+                  <item>Supreme, &amp;c.</item>
+               </list>
+            </p>
+            <p>
+               <hi>By</hi> THO. SWADLIN D. D.</p>
+            <p>
+               <hi>Cui ad Manticam res redit.</hi>
+            </p>
+            <p>Printed in the Year 1658.</p>
+            <pb facs="tcp:36510:2" rendition="simple:additions"/>
+            <pb facs="tcp:36510:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:36510:3"/>
+            <pb facs="tcp:36510:3"/>
+            <head>TO The Readers.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F any of you ask, Why theſe in<g ref="char:EOLhyphen"/>compoſed Pa<g ref="char:EOLhyphen"/>pers? They are to beg your Cha<g ref="char:EOLhyphen"/>rity: Nor am I aſhamed of it, ſince a King,
+<pb facs="tcp:36510:4"/>without diſho<g ref="char:EOLhyphen"/>nour, becauſe without diſhone<g ref="char:EOLhyphen"/>ſty, did it before me, when he ſaid, <hi>Date obolum. Beliſario;</hi> and a better King ſince him, when he ſaid, <hi>He had ra<g ref="char:EOLhyphen"/>ther live on the Churches alms than take the
+<pb facs="tcp:36510:4"/>bread out of Prieſts mouths;</hi> and another be<g ref="char:EOLhyphen"/>fore them both, when he ſaid, <hi>Have pitty up<g ref="char:EOLhyphen"/>on me, Have pitty upon me, ô yee my friends! for the hand of God is upon me: The Hand of God
+<pb facs="tcp:36510:5"/>permitting;</hi> elſe the <hi>Hand of man puniſhing</hi> could not conti<g ref="char:EOLhyphen"/>nue ſo violent, as to threaten a <hi>ſtarving;</hi> which how neer it is, though not known, is yet much feared by</p>
+            <closer>
+               <signed>Tho. Swadlin.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:36510:5" rendition="simple:additions"/>
+            <head>TO THE NOBILITY AND GENTRY.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">N</seg>Obility</hi> and <hi>Riches</hi> are not <hi>abſolute<g ref="char:EOLhyphen"/>ly</hi> good; For they are given to the <hi>Bad,</hi> as well as to the <hi>Good. Eſau</hi> was a <hi>No<g ref="char:EOLhyphen"/>ble man</hi> and a <hi>Rich ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> as well as <hi>Jacob; Dives</hi> as well as <hi>James:</hi> and therefore
+<pb n="2" facs="tcp:36510:6"/>I have no reaſon to put my <hi>confidence</hi> in them, or to think my ſelf the more in <hi>Gods favour,</hi> becauſe I have more of the <hi>worlds Treaſure.</hi>
+            </p>
+            <p>Neither yet are <hi>Riches</hi> and <hi>Nobility abſolutely</hi> bad; For they are given to the <hi>Good,</hi> as well as to the <hi>Bad. David</hi> was <hi>No<g ref="char:EOLhyphen"/>ble</hi> and <hi>Rich,</hi> as well as <hi>Saul;</hi> and ſo was <hi>Nicademus,</hi> as well as <hi>Caiaphas:</hi> and there<g ref="char:EOLhyphen"/>fore I have no reaſon to be diffident of my ſelf, becauſe I am <hi>Rich</hi> and <hi>Noble,</hi> or to think my ſelf out of <hi>Gods fa<g ref="char:EOLhyphen"/>vour,</hi>
+               <pb n="3" facs="tcp:36510:6"/>becauſe I have ſo much of the <hi>worlds. Nobility</hi> and <hi>Riches</hi> are onely <hi>bad,</hi> when they are badly <hi>obtain<g ref="char:EOLhyphen"/>ed,</hi> or <hi>retained</hi> worſe; and then onely <hi>good,</hi> when they are ſent by <hi>Gods bleſsing,</hi> either by way of <hi>inheritance,</hi> from my <hi>Parents;</hi> or by way of <hi>induſtry,</hi> from my <hi>Pains;</hi> and again diſtributed and uſed to <hi>Gods</hi> glory, and the good of <hi>his</hi> ſervants.</p>
+            <p>
+               <hi>Achan</hi> by an ill <hi>ob<g ref="char:EOLhyphen"/>tention</hi> of <hi>Riches,</hi> pur<g ref="char:EOLhyphen"/>chaſed an ignominious death: and if others</p>
+            <p>Knew what it were
+<pb n="4" facs="tcp:36510:7"/>to <hi>kill,</hi> and then <hi>poſ<g ref="char:EOLhyphen"/>ſeſſe,</hi>
+            </p>
+            <p>They would aſpire ſtill, but to be <hi>leſſe. Dives</hi> by an ill <hi>deten<g ref="char:EOLhyphen"/>tion</hi> of <hi>Riches,</hi> pur<g ref="char:EOLhyphen"/>chaſed the <hi>torments</hi> of <hi>Hell:</hi> and if o<g ref="char:EOLhyphen"/>thers</p>
+            <p>Knew what it were to deny poor men <hi>food,</hi>
+            </p>
+            <p>They would covet ſtill, but covet to be <hi>good. Job</hi> with his humble <hi>Nobility,</hi> with his large <hi>poſſeſsions,</hi> obtained <hi>Gods</hi> favours: And <hi>Zacheus,</hi> by his munificent <hi>diſtributi<g ref="char:EOLhyphen"/>ons,</hi> poſſeſſed the <hi>Joyes</hi> of <hi>Heaven.</hi> I fear not
+<pb n="5" facs="tcp:36510:7"/>my ſelf therefore, be<g ref="char:EOLhyphen"/>cauſe I am <hi>Noble,</hi> be<g ref="char:EOLhyphen"/>cauſe I am <hi>Rich;</hi> all that I fear is, That I may uſe my <hi>Riches</hi> and <hi>Nobility</hi> ill; and, that I may not, I ask my ſelf theſe <hi>Caſes</hi> of <hi>Con<g ref="char:EOLhyphen"/>ſcience.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Whether I abate of mine own <hi>ſuperfluities,</hi> to relieve the poor's neceſſities? Elſe I am <hi>Dives</hi> like, <hi>Luk.</hi> 16.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Whether I conſider the <hi>Poor and Needy,</hi> and ſave them the pains and ſhame of begging at my dore and elbow? Then I am <hi>David</hi> like <hi>Pſ.</hi> 4.</p>
+            <pb n="6" facs="tcp:36510:8"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Whether I look contemptuouſly upon them that are <hi>poor and needy?</hi>
+               <note place="margin">Sam</note> That is, <hi>Nabal</hi>-like.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Whether I have not reſolved to deny relief to them that want? This is Devil<g ref="char:EOLhyphen"/>like. And when theſe <hi>Caſes</hi> are reſolved to the comfort of my ſoul, I may humbly and confidently ad<g ref="char:EOLhyphen"/>dreſſe my ſelf to <hi>Al<g ref="char:EOLhyphen"/>mighty God.</hi>
+            </p>
+            <p>O moſt <hi>gracious God!</hi> thou haſt dealt largely with me in thy <hi>Outward bleſsings;</hi> I be<g ref="char:EOLhyphen"/>ſeech thee alſo, give
+<pb n="7" facs="tcp:36510:8"/>me a large portion of thy <hi>Inward grace.</hi> My heart is full of <hi>corrup<g ref="char:EOLhyphen"/>tion,</hi> and even with theſe <hi>thy bleſsings,</hi> of a <hi>Noble blood,</hi> and a <hi>full purſe,</hi> I ſhall <hi>pride</hi> my ſelf, and deſpiſe <hi>others,</hi> and ſcorn the <hi>Poor,</hi> and forget <hi>thee;</hi> unleſſe with this <hi>Nobility</hi> in my <hi>blood,</hi> and this <hi>plenty</hi> in my <hi>purſe thou</hi> give me the <hi>Poverty of thy ſpirit;</hi> It is not <hi>a poor ſpirit</hi> I deſire, but to be <hi>poor in ſpirit,</hi> that while others <hi>highly conceit</hi> of me, I may be <hi>humble</hi> in mine own <hi>conceit;</hi> remembring,
+<pb n="8" facs="tcp:36510:9"/>the more I have of <hi>thee,</hi> the more <hi>thou</hi> wilt require from <hi>me;</hi> and the greater my <hi>charge</hi> is by <hi>thy truſt,</hi> the greater muſt be my <hi>diſcharge</hi> by my <hi>truth:</hi> Elſe my <hi>Nobility</hi> will puff me with <hi>ſecurity,</hi> and my <hi>wealth</hi> will be a <hi>thorn</hi> to choak and wither the <hi>ſeed</hi> of <hi>thy word</hi> in me, and make it unfruitfull to me. Let me therefore take more delight in <hi>thy word,</hi> than in all manner of <hi>Riches,</hi> that in this <hi>ſlippery place</hi> (for <hi>Riches</hi> and <hi>Nobility</hi> are but <hi>ſlippery,</hi> they ei<g ref="char:EOLhyphen"/>ther
+<pb n="9" facs="tcp:36510:9"/>
+               <hi>thaw</hi> from us, or we <hi>melt</hi> from them) I may keep an even ſtep, and walk with a right foot. Let not mine <hi>eye</hi> be dazled with the <hi>glory,</hi> nor <hi>heart</hi> bewitched with the <hi>delicacy</hi> of thoſe <hi>Treaſures;</hi> leſt, e're I am aware, They be taken from me, or I from them. Let my chief <hi>delight</hi> be upon that <hi>durable wealth</hi> and <hi>eternal Nobility,</hi> which is better than <hi>Gold</hi> and <hi>Coronets,</hi> that my <hi>heart</hi> may be enriched with the dew of <hi>thy ſpirit,</hi> my <hi>ſoul</hi> filled with the
+<pb n="10" facs="tcp:36510:10"/>
+               <hi>knowledge,</hi> and my <hi>hands</hi> enabled with the <hi>practiſe</hi> of <hi>thy will.</hi> Oh! let me remem<g ref="char:EOLhyphen"/>ber, That theſe <hi>Riches,</hi> theſe <hi>Titles</hi> are not my <hi>Lordſhip,</hi> but my <hi>Stew<g ref="char:EOLhyphen"/>ardſhip,</hi> that the <hi>bowels</hi> of the <hi>Saints</hi> may be refreſhed, and the <hi>hearts</hi> of the <hi>widows</hi> rejoyced, and the <hi>loins</hi> of the <hi>Naked</hi> warned by the <hi>fruits</hi> of my <hi>faith,</hi> my <hi>good works;</hi> and thereby others provoked to glorifie <hi>thee.</hi> Let that be the <hi>Emd</hi> of my <hi>charity,</hi> To <hi>glorifie thee;</hi> not any thought of <hi>merit,</hi> or
+<pb n="11" facs="tcp:36510:10"/>to glorifie my ſelf. Let every <hi>Mite</hi> I give, be a <hi>fruit of faith,</hi> not a <hi>gift of fortune;</hi> and every <hi>mercy</hi> I ſhew to others upon this <hi>ground,</hi> aſ<g ref="char:EOLhyphen"/>ſure me, it is a <hi>beam</hi> of <hi>thy love</hi> unto my ſelf; and while I have no other <hi>aime</hi> but <hi>thy glo<g ref="char:EOLhyphen"/>ry,</hi> no other <hi>ground</hi> but my <hi>obedience,</hi> let me in the <hi>End</hi> find it a good <hi>ground-work</hi> a<g ref="char:EOLhyphen"/>gainſt the time to come, and ſo attain the <hi>End</hi> of my <hi>faith,</hi> even the <hi>ſalvation</hi> of my <hi>ſoul;</hi> not for theſe <hi>works-ſake,</hi> but for that <hi>Promiſe ſake,
+<note place="margin">Pſal 41.2.</note> Bleſſed is
+<pb n="12" facs="tcp:36510:11"/>he that conſidereth the poor and needy, the Lord ſhall deliver him in the time of trouble.</hi> Deli<g ref="char:EOLhyphen"/>ver me, ô Lord! in the trouble of my life, from worldly care; and deliver me, ô Lord! in the trouble of my death from ſin<g ref="char:EOLhyphen"/>full guilt, through Je<g ref="char:EOLhyphen"/>ſus Chriſt. Amen. In whoſe moſt bleſſed Name and words, I further call upon thee, as he hath taught me in his holy Goſpel:
+<q>Our Father which art in heaven. Hallow<g ref="char:EOLhyphen"/>ed be thy name, &amp;c.</q>
+            </p>
+            <div type="part">
+               <pb n="13" facs="tcp:36510:11"/>
+               <head>The Noblemans Cha<g ref="char:EOLhyphen"/>racter.</head>
+               <p>HE is endowed with the four cardinal vertues; and is a man, neither cove<g ref="char:EOLhyphen"/>tous, nor prodigal, but temperate; he knows how to give charita<g ref="char:EOLhyphen"/>bly, and to gather pro<g ref="char:EOLhyphen"/>vidently. He is a man neither fooliſh, nor craf<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, but prudent; and knows when to ſpeak plainly, when politickly, never falſ<g ref="char:EOLhyphen"/>ly. He is a man nei<g ref="char:EOLhyphen"/>ther indulgent, nor cruel, but juſt; and
+<pb n="14" facs="tcp:36510:12"/>knows how to puniſh Iniquity, and to re<g ref="char:EOLhyphen"/>ward Honeſty. He is a man neither timo<g ref="char:EOLhyphen"/>rous, nor temerous, but magnanimous; and knows how to bridle precipitancy, to ſpur puſillanimitie, and dares ſcarlet his ſword in an Honourable cauſe.</p>
+               <q>Sola Virtus vera Nobi<g ref="char:EOLhyphen"/>litas.</q>
+            </div>
+            <div type="part">
+               <pb n="15" facs="tcp:36510:12"/>
+               <head>To the Gentlemen of the Law.</head>
+               <p>MY <hi>Calling</hi> is lawful, I queſtion it not; no wiſe man doth queſtion it; or if any man doth queſtion it, yet <hi>God</hi> being the an<g ref="char:EOLhyphen"/>tient <hi>Law-maker,</hi> and the eternal <hi>Law gi<g ref="char:EOLhyphen"/>ver,</hi> would ſoon de<g ref="char:EOLhyphen"/>cide it, and determine my <hi>Calling</hi> to be law<g ref="char:EOLhyphen"/>ful: All my fear is, whether I uſe not my <hi>lawful Calling unlaw<g ref="char:EOLhyphen"/>fully?</hi> That I may
+<pb n="16" facs="tcp:36510:13"/>not, I propoſe theſe <hi>Caſes</hi> of <hi>Conſcience</hi> to my ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>f:</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Whether <hi>Gods glo<g ref="char:EOLhyphen"/>ry</hi> or mine own <hi>gain,</hi> moved me to make choice of this <hi>Cal<g ref="char:EOLhyphen"/>ling?</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Whether I take <hi>Fees</hi> in right or wrong <hi>Cauſes?</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> Whether I afford a <hi>Tenth</hi> or a <hi>Tantamount</hi> of my abundant <hi>Fees</hi> to the relief of the poor?</p>
+               <p>And when theſe are reſolved I ac<g ref="char:EOLhyphen"/>knowledge it my <hi>duty,</hi> as it is every mans <hi>du<g ref="char:EOLhyphen"/>ty,</hi> to pray <hi>God</hi> to di<g ref="char:EOLhyphen"/>rect
+<pb n="17" facs="tcp:36510:13"/>me in my <hi>lawful Calling;</hi> and ſo I doe.</p>
+               <p>
+                  <hi>O moſt juſt and righ<g ref="char:EOLhyphen"/>teous God!</hi> who to pre<g ref="char:EOLhyphen"/>ſerve <hi>Peace</hi> amongſt men, and to prevent men from wronging one another, haſt or<g ref="char:EOLhyphen"/>dained the <hi>Profeſsion</hi> of the <hi>Law,</hi> and haſt appointed me to that <hi>Profeſsion;</hi> I beſeech thee, give me grace ſo to execute my <hi>Profeſ<g ref="char:EOLhyphen"/>ſion,</hi> that I may doe right to all men; ſan<g ref="char:EOLhyphen"/>ctifie my <hi>Tongue</hi> that my words be not de<g ref="char:EOLhyphen"/>ceiptful; and ſanctifie my <hi>Heart,</hi> that <hi>equity</hi> not <hi>opulency,</hi> be the
+<pb n="18" facs="tcp:36510:14"/>chiefeſt mark I aime at: keep my <hi>Hands</hi> from taking <hi>Fees,</hi> to plead in, or maintain an <hi>unjuſt cauſe;</hi> and when I ſhall take a <hi>Fee</hi> in a <hi>juſt Cauſe,</hi> and doe not deſerve it, either by my <hi>neglect,</hi> or <hi>mul<g ref="char:EOLhyphen"/>tiplicity</hi> of other <hi>Im<g ref="char:EOLhyphen"/>ployments,</hi> give me grace to reſtore it: While I am buſied to obtain <hi>earthly Goods</hi> for my <hi>Clrents,</hi> let me not forget to make <hi>Thee</hi> my <hi>Advocate</hi> for obtaining the <hi>Eternal good</hi> of mine own <hi>Soul:</hi> In all my <hi>plea<g ref="char:EOLhyphen"/>ding</hi> before an <hi>earthly
+<pb n="19" facs="tcp:36510:14"/>Judge,</hi> give me grace to remember that great and laſt day, when I, and all men beſides, muſt appear before <hi>Thee,</hi> the <hi>Judge</hi> of <hi>Heaven</hi> and <hi>Earth.</hi> And becauſe then, not <hi>ſubtle words,</hi> but a <hi>pure heart,</hi> a <hi>good conſcience,</hi> and not a <hi>full purſe</hi> ſhall ſpeed, ſo direct me by <hi>thy Spirit</hi> in this <hi>Calling</hi> of the <hi>Law,</hi> that in my whole <hi>Practice,</hi> I may endeavour to execute <hi>Juſtice,</hi> and maintain <hi>Truth,</hi> and then re<g ref="char:EOLhyphen"/>ceive, as thou haſt promiſed, to them
+<pb n="20" facs="tcp:36510:15"/>that walk uprightly, <hi>glory and immortality,</hi>
+                  <note place="margin">Pſ. 80 11.</note> through the <hi>merits</hi> of <hi>Him,</hi> that is the <hi>Ad<g ref="char:EOLhyphen"/>vocate</hi> of <hi>Sinners,</hi> and the <hi>propitiation</hi> for our <hi>ſins, Jeſus Chriſt the righteous. Amen.</hi> In whoſe moſt bleſſed name and words, <hi>&amp;c.</hi>
+               </p>
+               <div type="section">
+                  <head>The Lawyers Character.</head>
+                  <p>NO wife man ſees him, but he thinks upon his <hi>Eſtate,</hi> and is glad there are ſuch men, without whom, <hi>themſelves</hi> can<g ref="char:EOLhyphen"/>not live in <hi>peace,</hi> nor their <hi>Eſtates</hi> be <hi>ſecure:</hi>
+                     <pb n="21" facs="tcp:36510:15"/>None but <hi>fools</hi> grudge at their <hi>abundance,</hi> ſince by their <hi>dili<g ref="char:EOLhyphen"/>gence,</hi> we poſſeſſe ſuch <hi>abundance</hi> as we have <hi>tranquillouſly:</hi> Be as <hi>rich</hi> as you can, ſo you be <hi>honeſt,</hi> and though your <hi>Law</hi> can<g ref="char:EOLhyphen"/>not, yet the <hi>Goſpel</hi> will find a way to cut off the <hi>entayl</hi> of <hi>difficulty</hi> to <hi>Heaven</hi> from <hi>Ri<g ref="char:EOLhyphen"/>ches:</hi> Elſe</p>
+                  <q>Vae vobis.</q>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="22" facs="tcp:36510:16"/>
+               <head>The Phyſicians De<g ref="char:EOLhyphen"/>votion.</head>
+               <p>NO man that hath <hi>pulſe</hi> in his <hi>Body,</hi> or <hi>paſtion</hi> in his <hi>heart,</hi> or <hi>brain</hi> in his <hi>head,</hi> or <hi>urine</hi> in his <hi>bladder,</hi> but will confeſſe the <hi>law<g ref="char:EOLhyphen"/>fulneſs</hi> of my <hi>Profeſsion;</hi> or if any man be ſo mad, or malicious, yet <hi>Aſa</hi>'s prepoſterouſneſs in ſeeking to the <hi>Phy<g ref="char:EOLhyphen"/>ſician,</hi> before the <hi>Di<g ref="char:EOLhyphen"/>vine,</hi> and <hi>Hezechias</hi> his application of a <hi>Figg</hi> to his <hi>Plague<g ref="char:EOLhyphen"/>ſore,</hi>
+                  <pb n="23" facs="tcp:36510:16"/>will confute him, and tel the whole world,</p>
+               <p>
+                  <hi>That the Phyſicians Profeſsion</hi> is <hi>lawful and</hi> honourable, becauſe not a <hi>wiſe man</hi> ſees him, but he thinks of <hi>death;</hi> not a <hi>fool,</hi> but ſends for him in <hi>ſickneſſe;</hi> and there<g ref="char:EOLhyphen"/>fore a <hi>happy man</hi> he is in the mean time, that is welcome to <hi>fools</hi> in <hi>extremity,</hi> and to <hi>wiſe men</hi> at every <hi>opportu<g ref="char:EOLhyphen"/>nity.</hi>
+               </p>
+               <p>
+                  <hi>He</hi> is indeed as <hi>hap<g ref="char:EOLhyphen"/>py</hi> as any man living, if he aſcribe not too much to <hi>ſecond cauſes;</hi>
+                  <pb n="24" facs="tcp:36510:17"/>If he make <hi>God</hi> his, as <hi>God</hi> hath made him other mens, <hi>Phyſician;</hi> If he ſhew <hi>God</hi> his <hi>tears,</hi> as he looks upon his <hi>Patients urine,</hi> he may then as well pro<g ref="char:EOLhyphen"/>gnoſticate his own <hi>health,</hi> as his <hi>Patients death.</hi> The ſight of him ſhall ever put me in mind of <hi>death,</hi> that I may not be afraid of <hi>death,</hi> when I cannot have the ſight of him, the <hi>Phyſician;</hi> To whom I propoſe this one <hi>Caſe</hi> of <hi>Conſcience.</hi>
+               </p>
+               <p>
+                  <hi>Whether his Preſcri<g ref="char:EOLhyphen"/>ptions and Aimes are more for his Patients re<g ref="char:EOLhyphen"/>covery,
+<pb n="25" facs="tcp:36510:17"/>or his own Gains?</hi> And then let him pray thus, or o<g ref="char:EOLhyphen"/>therwiſe as it pleaſeth him.</p>
+               <p>O <hi>moſt wiſe,</hi> moſt <hi>powerfull,</hi> and moſt <hi>gracious God!</hi> who haſt created <hi>Man</hi> for <hi>thy ſelf,</hi> and ſervice, and all other things for the ſervice of <hi>Man;</hi> and amongſt men haſt or <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ained, <hi>ſeveral Pro<g ref="char:EOLhyphen"/>feſsions,</hi> and amongſt them the <hi>Profeſsion</hi> of <hi>Phyſick,</hi> to repair the <hi>Health,</hi> and to recover the <hi>Sickneſſe</hi> of <hi>Men;</hi> The ſeech thee to give me grace to remem<g ref="char:EOLhyphen"/>ber,
+<pb n="26" facs="tcp:36510:18"/>that I muſt one day anſwer, for what I doe all the dayes of my <hi>life;</hi> and therefore withall I beſeech <hi>thee</hi> for a bleſſing upon all thoſe <hi>Preſcriptions</hi> I ſhall direct for my <hi>Pa<g ref="char:EOLhyphen"/>tients,</hi> and to truſt in and expect onely from <hi>thee,</hi> the <hi>Firſt cauſe,</hi> a <hi>vertuous opera<g ref="char:EOLhyphen"/>tion</hi> upon the <hi>ſecond cauſe,</hi> for the <hi>good</hi> and <hi>benefit</hi> of my <hi>Patients;</hi> and as I feel for the <hi>evenneſſe</hi> or <hi>uneven<g ref="char:EOLhyphen"/>neſſe</hi> of their <hi>pulſe,</hi> I may keep the <hi>pulſe</hi> of mine own <hi>ſoul</hi> in an e<g ref="char:EOLhyphen"/>ven and juſt <hi>temper</hi> be<g ref="char:EOLhyphen"/>fore
+<pb n="27" facs="tcp:36510:18"/>
+                  <hi>thee,</hi> that as I be<g ref="char:EOLhyphen"/>hold their <hi>urines,</hi> thou mayeſt behold my <hi>tears,</hi> that as I pre<g ref="char:EOLhyphen"/>ſcribe their <hi>Diets,</hi> I may alwaies keep a <hi>temperate Diet</hi> my ſelf; and ſo keep my <hi>body</hi> under, that my <hi>ſoul</hi> may continually have recourſe to <hi>Thee,</hi> until thou take me to thy ſelf through <hi>Jeſus Chriſt. Amen.</hi> In whoſe moſt bleſſed Name and words, &amp;c.</p>
+               <div type="section">
+                  <head>Phyſician his Chara<g ref="char:EOLhyphen"/>cter.</head>
+                  <p>
+                     <hi>HE</hi> is <hi>Natures</hi> beſt friend, as
+<pb n="28" facs="tcp:36510:19"/>alwaies following her <hi>dictates</hi> and <hi>directions.</hi> He is a good friend to <hi>Grace;</hi> for when he ſees <hi>Nature</hi> ſpent, he bids his <hi>Patient</hi> ſend for the <hi>Divine;</hi> nor doe I blame him for it, that he puts <hi>Divini<g ref="char:EOLhyphen"/>ty</hi> after <hi>Phyſick,</hi> ſince I know, <hi>Men</hi> are more ſenſible of <hi>fleſh</hi> and <hi>blood,</hi> than they are of <hi>ſoul</hi> and <hi>ſpirit;</hi> nor doe you blame me, if I highly priſe that piece of <hi>Apocrypha,</hi>
+                     <q>Honora Medicum hono<g ref="char:EOLhyphen"/>re debito.</q>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="29" facs="tcp:36510:19"/>
+               <head>The Sea-mans Devo<g ref="char:EOLhyphen"/>tion.</head>
+               <p>THat my <hi>Cal<g ref="char:EOLhyphen"/>ling</hi> is <hi>lawfull, honourable,</hi> &amp; <hi>ancient, Noahs Ark,
+<note place="margin">Geneſ.</note> Davids wonder in the deep,
+<note place="margin">Pſal.</note> Solomons ſending ſhips to Ophir for Gold,</hi> and <hi>St.
+<note place="margin">Act 27.</note> Pauls eſcaping danger at Sea,</hi> by the help of the <hi>Shipmaſter, Pilots, and Mariners,</hi> doe abundantly ſatiſ<g ref="char:EOLhyphen"/>fie and confirm; Yet before I goe to <hi>Sea,</hi> I ſhall propoſe to my ſelf this <hi>Caſe</hi>
+                  <pb n="30" facs="tcp:36510:20"/>of <hi>Conſcience.</hi>
+               </p>
+               <p>
+                  <hi>Whether I have ta<g ref="char:EOLhyphen"/>ken this Calling by the direction of my Parents, the guidance of Provi<g ref="char:EOLhyphen"/>dence, or the love of money, and deſire of ſee<g ref="char:EOLhyphen"/>ing Faſhions?</hi> And be<g ref="char:EOLhyphen"/>ing reſolved, <hi>I am law<g ref="char:EOLhyphen"/>fully called,</hi> I pray:</p>
+               <p>
+                  <hi>O God!</hi> who haſt appointed me to goe down into the <hi>Sea in ſhips,</hi> and to doe my buſineſſe in <hi>great wa<g ref="char:EOLhyphen"/>ters,</hi>
+                  <q>Have mercy upon me.</q>
+               </p>
+               <p>
+                  <hi>O God!</hi> who doeſt whatſoever I thou pleaſeſt in <hi>Heaven,</hi> in <hi>Earth,</hi> and in all
+<pb n="31" facs="tcp:36510:20"/>
+                  <hi>deep places,</hi>
+                  <q>Have mercy upon me.</q>
+               </p>
+               <p>
+                  <hi>O God!</hi> I am now ready to commit my ſelf unto the <hi>waters,</hi> I am now floating up<g ref="char:EOLhyphen"/>on the <hi>bottomleſſe Sea;</hi> and that my <hi>ſins</hi> may not goe along with me, nor provoke thee to vex me with thy ſtorms,
+<q>Have mercy upon me.</q>
+               </p>
+               <p>The <hi>Ship</hi> that I am now in, is but a vain thing to ſave a man; and that <hi>Pyrates</hi> may not board us, that <hi>windes</hi> and <hi>waves</hi> may not drown us, that <hi>Infidels</hi> may not
+<pb n="32" facs="tcp:36510:21"/>captivate us,
+<q>Have mercy upon us.</q>
+               </p>
+               <p>That th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Devil</hi> may not infect us, That we may be conſtant in our <hi>Religion,</hi> That we may be true and juſt in our <hi>dealings,</hi> That in all places, we may de<g ref="char:EOLhyphen"/>mean our ſelves as the <hi>Profeſſors</hi> of <hi>Chriſt,</hi> and give no occaſion to the <hi>Adverſary</hi> to ſpeak evil.</p>
+               <q>Have mercy upon us.</q>
+               <p>That the great <hi>Le<g ref="char:EOLhyphen"/>viathan</hi> may not ſeize upon our ſouls, as the Whale did upon <hi>Jonas</hi> his body for ſins we ſtand guilty of,
+<pb n="33" facs="tcp:36510:21"/>
+                  <q>Have mercy upon us, and blot out all our offences.</q>
+               </p>
+               <p>
+                  <hi>In a Storm.</hi>
+               </p>
+               <p>O God! who didſt ſave <hi>Noah</hi> and his Fa<g ref="char:EOLhyphen"/>mily in the A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k from periſhing by water,
+<q>Help us, or elſe we periſh.</q>
+               </p>
+               <p>O God! who didſt hear the prayer of thy Prophet from the bot<g ref="char:EOLhyphen"/>tom of the Sea, and our of the belly of Hell,
+<q>Hear us and help us, elſe we periſh.</q>
+               </p>
+               <p>O God! who haſt
+<pb n="34" facs="tcp:36510:22"/>commanded, and rai<g ref="char:EOLhyphen"/>ſed the ſtormy winde, which lifteth up the waves of the Sea,
+<q>Help us, elſe we periſh,</q>
+               </p>
+               <p>O God! theſe winds and theſe waves mount us up to Hea<g ref="char:EOLhyphen"/>ven, and bring us down again to the depth, and melt our ſouls,
+<q>Help us, elſe we periſh.</q>
+               </p>
+               <p>O God! we reel to and fro, and ſtagger like drunken men, and are at our wits end,
+<q>Help us elſe we periſh.</q>
+               </p>
+               <p>Our ſins have raiſed thy Anger, O God! and thy Anger hath raiſed theſe ſtorms;
+<pb n="35" facs="tcp:36510:22"/>In juſtice thou mayeſt deal with us, as thou didſt with <hi>Pharaoh</hi> and the Egyptians; but we beſeech thee to deal with us in mercy, as with <hi>Moſes</hi> and the Iſraelites in the red Sea: Caſt our ſins in<g ref="char:EOLhyphen"/>to the bottomleſſe Sea of thy mercy; Drown them in the red Sea of Jeſus Chriſts blood; and as he did rebuke the waves and the Sea, ſo doe Thou turn this Sea into a Calme, and bring us to our deſired Haven: Spare us a lit<g ref="char:EOLhyphen"/>tle longer before we goe hence, and be no
+<pb n="36" facs="tcp:36510:23"/>more ſeen Guide us in this whole voyage by thy Power; Go<g ref="char:EOLhyphen"/>vern is with thy Mer<g ref="char:EOLhyphen"/>cy, Return us with thy Grace, that we may give up our lives in the Land where we recei<g ref="char:EOLhyphen"/>ved them: Or if thou haſt <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> appointed us unto death<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> prepare us for death, in the full remiſſion of our Sins, in the free juſtification about Perſons, in the frui<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>full ſanctification of our remaining Dai<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, and in the fu<g ref="char:EOLhyphen"/>ture glor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fication of our Souls, through Je<g ref="char:EOLhyphen"/>ſus Chriſt. Amen.
+<pb n="37" facs="tcp:36510:23"/>In whoſe Name, &amp;c.</p>
+               <p>
+                  <hi>After the Storm.</hi>
+               </p>
+               <p>That thou haſt heard us from above, and drawn us out of many waters,
+<q>My ſoul doth magni<g ref="char:EOLhyphen"/>fie thee; ô Lord!</q>
+               </p>
+               <p>That thou haſt de<g ref="char:EOLhyphen"/>livered us from all our Fea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, and haſt not ſuf<g ref="char:EOLhyphen"/>fered the water-floods to over whelm us, nor the deeps to ſwallow us up,
+<q>My ſoul doth magni<g ref="char:EOLhyphen"/>fie thee, ô Lord!</q>
+               </p>
+               <p>That thou <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſt ſhewn us thy w<gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="38" facs="tcp:36510:24"/>in the deep, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> delivered us from death, by preſerving us in the ſhip, and com<g ref="char:EOLhyphen"/>manding the waves to be quiet, and the winds to be ſtill,
+<q>My ſoul doth magni<g ref="char:EOLhyphen"/>fie thee, ô Lord!</q>
+               </p>
+               <p>That <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> haſt brought me <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to the ſhoar, &amp; comforted me with the ſight, and life, &amp; health if my friends
+<q>My ſoul doth magni<g ref="char:EOLhyphen"/>fie thee, ô Lord!</q>
+               </p>
+               <p>
+                  <hi>At thy Return.</hi>
+               </p>
+               <p>And now, what ſhall I render unto thee, ô Lord! for all thy be<g ref="char:EOLhyphen"/>nefits?
+<pb n="39" facs="tcp:36510:24"/>My ſoul and body I dedicate unto thee, and beſeech thee to conſecrate them un<g ref="char:EOLhyphen"/>to thy ſelf: They have been waſht in the wa<g ref="char:EOLhyphen"/>ters of the Sea; oh, now waſh them in the laver of Regeneration: They have taſted the ſaltneſs of the Sea; oh, let them now taſte the Merits of my Saviour; and then my <hi>ſoul</hi> ſhall ne<g ref="char:EOLhyphen"/>ver conſent again to ſin, my <hi>body</hi> ſhall never again commit ſin: And that this may not prove <hi>preſumption,</hi> but that I may bring my promiſe into perfor<g ref="char:EOLhyphen"/>mance,
+<pb n="40" facs="tcp:36510:25"/>Be <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> O <hi>God!</hi> with the earneſtneſſe of my <hi>ſoul,</hi> upon the k<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ees of my body I beg thy <hi>aſsiſtance,</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>graces</hi> of <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>holy Spirit,</hi> that I m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y con<g ref="char:EOLhyphen"/>q<gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>s;in; he <hi>command<g ref="char:EOLhyphen"/>ing power</hi> of ſin, and never again <hi>obey</hi> it, the <hi>condemning guilt</hi> of ſin and never <hi>deſpair</hi> under it: And this for the <hi>bitter Agony</hi> and <hi>preci<g ref="char:EOLhyphen"/>ous death</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f my <hi>Lord</hi> &amp; <hi>Saviour Jeſus Chriſt A<g ref="char:EOLhyphen"/>men.</hi> In whoſe bleſſed Name and words I further call upon thee ſaying,
+<q>Our Father, &amp;c.</q>
+               </p>
+               <div type="section">
+                  <pb n="41" facs="tcp:36510:25"/>
+                  <head>The Sea-mans Chara<g ref="char:EOLhyphen"/>cter.</head>
+                  <p>IN him I ſee a <hi>war<g ref="char:EOLhyphen"/>rantable,</hi> a <hi>dange<g ref="char:EOLhyphen"/>rous,</hi> a <hi>gainful,</hi> and an <hi>honourable</hi> Calling; ſo <hi>warrantable,</hi> that <hi>Chriſt</hi> of his <hi>twelve Apoſtles</hi> choſe four <hi>Sea-men, Andrew, Peter, James,</hi> and <hi>John;</hi> ſo <hi>dange<g ref="char:EOLhyphen"/>rous,</hi> that there is ne<g ref="char:EOLhyphen"/>ver above a <hi>foot</hi> and <hi>half</hi> betwixt him and death; which made one <hi>Poet</hi> ſay, <hi>Ille ro<g ref="char:EOLhyphen"/>bur, &amp;c.</hi> He had an heart of <hi>oake</hi> that firſt adventured to Sea:
+<pb n="42" facs="tcp:36510:26"/>and another; <hi>Aut in<g ref="char:EOLhyphen"/>ſanit, &amp;c.</hi> He is ei<g ref="char:EOLhyphen"/>ther a <hi>mad-man,</hi> or a <hi>begger,</hi> or <hi>deſirous to die</hi> that goes to <hi>Sea;</hi> onely they are ſo <hi>hap<g ref="char:EOLhyphen"/>py</hi> in this <hi>danger,</hi> that they ſee <hi>Gods wonders in the deep,</hi> and give him thanks, when they are by <hi>him</hi> brought unto the <hi>haven;</hi> ſo gainful, that <hi>Solemons</hi> good <hi>huſwife</hi> is com<g ref="char:EOLhyphen"/>pared to a <hi>Merchants Ship</hi> that brings <hi>riches</hi> from a far <hi>Countrey;</hi> ſo <hi>honourable,</hi> that of old the <hi>merchants of Tyre</hi> were called <hi>Prin<g ref="char:EOLhyphen"/>ces;</hi> and of late years,
+<pb n="43" facs="tcp:36510:26"/>thoſe of <hi>Genoa, Venice,</hi> and the <hi>Low-Countries</hi> are arrived ſo high, that a great part of the world envies them, the reſt admires them: to them we are beholding for <hi>Balme</hi> from <hi>Gilead,</hi> for <hi>In<g ref="char:EOLhyphen"/>cenſe</hi> from <hi>Sheba,</hi> for <hi>Gold</hi> from <hi>Ophir,</hi> for <hi>Cedar</hi> and <hi>Firr</hi> from <hi>Tyre,</hi> for <hi>Gumms</hi> and <hi>Spices,</hi> from <hi>India;</hi> and ſomewhat more than ordinary there is in this <hi>Calling,</hi> ſince <hi>Chriſt</hi> hath graced it with the <hi>immaterial</hi> letters of his own name.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="44" facs="tcp:36510:27"/>
+               <head>The Travailer.</head>
+               <p>I Am now taking a <hi>journey</hi> by <hi>land;</hi> whether for the <hi>neceſsity</hi> of <hi>buſineſſe,</hi> or the <hi>viſiting</hi> of my <hi>friends,</hi> or the <hi>wooing</hi> of a <hi>wife,</hi> I need not ſcruple my ſelf; ſo I am ſure, it is not for <hi>vanity</hi> or <hi>ſin;</hi> I may pray <hi>God</hi> for his <hi>pro<g ref="char:EOLhyphen"/>tection;</hi> and thus I ad<g ref="char:EOLhyphen"/>dreſſe my ſelf to <hi>his Throne of Grace:</hi>
+               </p>
+               <p>
+                  <hi>O moſt gracious God!</hi> who didſt pro<g ref="char:EOLhyphen"/>tect thy ſervants; <hi>A<g ref="char:EOLhyphen"/>braham,
+<pb n="45" facs="tcp:36510:27"/>Iſaac,</hi> and <hi>Ja<g ref="char:EOLhyphen"/>cob</hi> in their ſeveral <hi>journeys;</hi> and gaveſt thy ſervant <hi>Tobias</hi> a <hi>convoy</hi> of <hi>Angels</hi> to conduct and bring him back again; con<g ref="char:EOLhyphen"/>duct me alſo in this my <hi>journey</hi> by thy <hi>An<g ref="char:EOLhyphen"/>gels,</hi> that I may be ſafe from the violence of <hi>Thieves,</hi> and guide me by <hi>thy ſpirit,</hi> that I may be ſafe from the <hi>aſſaults</hi> of thoſe great <hi>Thieves</hi> of my <hi>Soul,</hi> the <hi>Fleſh,</hi> the <hi>World,</hi> and the <hi>Devil:</hi> againſt the <hi>World</hi> give me the <hi>ſtaffe</hi> of <hi>faith;</hi> a<g ref="char:EOLhyphen"/>gainſt the <hi>Devil</hi> give
+<pb n="46" facs="tcp:36510:28"/>me the <hi>bag</hi> of <hi>charity;</hi> againſt the <hi>Fleſh,</hi> give me the <hi>bottle</hi> of <hi>tears,</hi> that as a <hi>Pilgrime,</hi> I may not be cumbred with any thing of <hi>im<g ref="char:EOLhyphen"/>pediment,</hi> but only fur<g ref="char:EOLhyphen"/>thered with all things of <hi>emolument;</hi> and in every ſtep of this <hi>journey,</hi> remember my great <hi>journey</hi> from <hi>Earth</hi> to <hi>Heaven,</hi> and keep ſuch an even <hi>pace</hi> in the <hi>path</hi> of <hi>Grace,</hi> that <hi>thou</hi> mayeſt re<g ref="char:EOLhyphen"/>turn me back from this <hi>journey</hi> to my <hi>home;</hi> receive me at the end of that <hi>journey</hi> to thy <hi>City</hi> of <hi>Glory,</hi>
+                  <pb n="47" facs="tcp:36510:28"/>for his ſake, who is the <hi>way,</hi> the <hi>Truth,</hi> and the <hi>life, Jeſus Chriſt.</hi> In whoſe bleſſed name and words, I further call upon <hi>thee, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>At thy Return.</hi>
+               </p>
+               <p>O moſt mercifull God! That many have miſcarried in their <hi>travails,</hi> I hear and know; ſome in their <hi>purſes,</hi> ſome in their <hi>lives;</hi> that I am returned ſafe in both, and injured in nei<g ref="char:EOLhyphen"/>ther, I feel and know; and know no cauſe of it, but <hi>thy providence;</hi>
+                  <pb n="48" facs="tcp:36510:29"/>and therefore know my ſelf bound to ac<g ref="char:EOLhyphen"/>knowledge the <hi>duty</hi> of my <hi>thankfulneſſe</hi> to that <hi>providence</hi> of <hi>thine;</hi> which I doe and ever will bleſſe, not onely for this, but for all the <hi>preſervations</hi> of my whole life; and conſecrate the re<g ref="char:EOLhyphen"/>mainder of my whole life to <hi>thy ſervice;</hi> wherein I beſeech <hi>thee</hi> ſo to bleſſe me in my whole race upon earth, that I may bleſſe thee in the long race of <hi>eternity</hi> in <hi>hea<g ref="char:EOLhyphen"/>ven,</hi> for <hi>his</hi> ſake who took <hi>his journey</hi> from
+<pb n="49" facs="tcp:36510:29"/>
+                  <hi>heaven to earth,</hi> and re<g ref="char:EOLhyphen"/>turned again from <hi>earth</hi> to <hi>heaven,</hi> to prepare a place for me, and now ſits at thy <hi>right hand</hi> to in<g ref="char:EOLhyphen"/>tercede for me, <hi>Je<g ref="char:EOLhyphen"/>ſus Chriſt my Saviour. Amen.</hi> In whoſe bleſſed name and words, <hi>&amp;c.</hi>
+               </p>
+               <div type="section">
+                  <head>The Travailers Chara<g ref="char:EOLhyphen"/>cter.</head>
+                  <p>HE is an honeſt, and a wiſe man; h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> never goes on <hi>foot,</hi> but when he wants an <hi>horſe;</hi> nor doth he e<g ref="char:EOLhyphen"/>ver ride, but when he
+<pb n="50" facs="tcp:36510:30"/>hath buſineſſe: he ſpends like himſelf, little, or much; nor doth he make much account of his ex<g ref="char:EOLhyphen"/>pences; for he laies up that before he finds, or is forc'd occaſions to uſe it; if he travails with ſafety, and re<g ref="char:EOLhyphen"/>turns without danger, his firſt ſalutation is,
+<q>Gratias De<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</q>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="51" facs="tcp:36510:30"/>
+               <head>The Soldier.</head>
+               <p>SOme Phana<g ref="char:EOLhyphen"/>ticks in the world have que<g ref="char:EOLhyphen"/>ſtioned the lawfulneſs of my calling: But I have <hi>Gods word</hi> for my <hi>warrant,</hi> and <hi>Gods ſer<g ref="char:EOLhyphen"/>vants</hi> for my <hi>pattern.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+                  <hi>Gods word</hi> ſayes, <hi>when thou goeſt out with thin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Hoſt,</hi>
+                  <note place="margin">Deut. 23</note> or <hi>when thou goeſt to war;</hi> and that very word <hi>when,</hi> doth ſuppoſe it; and ſure I am, <hi>Gods word</hi> doth not ſuppoſe any thing which is <hi>unlawful.</hi>
+               </p>
+               <pb n="52" facs="tcp:36510:31"/>
+               <p>As <hi>Gods word, ſo his ſervants</hi> too war<g ref="char:EOLhyphen"/>rant it; yea, and <hi>his choiceſt ſervants; A<g ref="char:EOLhyphen"/>braham, Joſhua, Debo<g ref="char:EOLhyphen"/>ra, Sampſon, Gideon, David;</hi> they were all <hi>warriers;</hi> they waged <hi>war;</hi> ſome of them <hi>of<g ref="char:EOLhyphen"/>fenſive;</hi> ſome of them <hi>defenſive;</hi> and there<g ref="char:EOLhyphen"/>fore I need not doubt of the <hi>lawfulneſs of</hi> my Calling: all the doubt is, in reſolving theſe <hi>Caſes</hi> of <hi>Conſcience;</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+                  <hi>Whether I am law<g ref="char:EOLhyphen"/>fully called to this law<g ref="char:EOLhyphen"/>ful Calling?</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+                  <hi>How I may be aſſured that I am lawfully cal<g ref="char:EOLhyphen"/>led,
+<pb n="53" facs="tcp:36510:31"/>and may with a ſafe conſcience take up, and make uſe of theſe wea<g ref="char:EOLhyphen"/>pons?</hi>
+               </p>
+               <p>And that being done I thus addreſſe my ſelf to <hi>Jehovah the Lord of Hoſts.</hi>
+               </p>
+               <p>
+                  <hi>O Almighty God! who haſt ſtyled thy ſelf a man of war,</hi> and haſt now called me to be a man of <hi>war,</hi> I beſeech <hi>thee,</hi> teach my Hands to War; and my Fingers to Fight; give unto me, and to every one of my <hi>Fellow Soldiers</hi> the <hi>ſtrength</hi> of <hi>Samp<g ref="char:EOLhyphen"/>ſon,</hi> the <hi>courage</hi> of <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> and the <hi>wiſedome</hi>
+                  <pb n="54" facs="tcp:36510:32"/>of <hi>Solomon,</hi> that we may undermine all the <hi>attempts,</hi> and over<g ref="char:EOLhyphen"/>throw all the <hi>plots,</hi> and overcome all the <hi>Gy<g ref="char:EOLhyphen"/>ants,</hi> that fight againſt <hi>thy Truth;</hi> yet even in the heat of <hi>Fury</hi> give us <hi>pity</hi> that we may rather <hi>ſpare</hi> than <hi>ſpoile,</hi> and while we gird our ſelves with <hi>Armour</hi> to reſiſt theſe <hi>Enemies</hi> of ours, doe thou put up<g ref="char:EOLhyphen"/>on us <hi>thy whole armour</hi> that we may reſiſt that <hi>enemy</hi> of <hi>man<g ref="char:EOLhyphen"/>kind,</hi> and quench all the fiery darts of the <hi>Devil;</hi> goe <hi>thou</hi> forth with us againſt them,
+<pb n="55" facs="tcp:36510:32"/>that are come without <hi>thee</hi> againſt us; <hi>ani<g ref="char:EOLhyphen"/>mate</hi> our, and <hi>abate</hi> their <hi>courage; confound</hi> their <hi>devices,</hi> but <hi>con<g ref="char:EOLhyphen"/>vert</hi> their <hi>ſouls:</hi> and becauſe <hi>death</hi> is before our eyes, give us grace to be mindful of it, and prepared for it, that while we fight a<g ref="char:EOLhyphen"/>gainſt them, we may alſo fight the <hi>good fight</hi> againſt all our <hi>ghoſtly enemies,</hi> and re<g ref="char:EOLhyphen"/>ceive a <hi>Crown of righ<g ref="char:EOLhyphen"/>teouſneſſe:</hi> Take our <hi>Bodies</hi> into <hi>thy prote<g ref="char:EOLhyphen"/>ction,</hi> and defend us; take out <hi>ſouls</hi> into thy <hi>tuition,</hi> and ſanctifie
+<pb n="56" facs="tcp:36510:33"/>us; that though we return not home, we may be received into <hi>heaven,</hi> through <hi>Jeſus Chriſt. Amen.</hi> In whoſe moſt bleſſed name, <hi>&amp;c.</hi>
+               </p>
+               <div type="section">
+                  <head>The Soldiers Character.</head>
+                  <p>
+                     <hi>HE</hi> is the <hi>Father</hi> of <hi>Peace,</hi> and Mother of <hi>Patience;</hi> his <hi>ſubtilty</hi> begets <hi>peace;</hi> his <hi>magnanimity</hi> nurſes <hi>patiences;</hi> in both he is the <hi>founder</hi> and <hi>ſupporter</hi> of <hi>King<g ref="char:EOLhyphen"/>domes:</hi> If he be con<g ref="char:EOLhyphen"/>quered, he ſowes <hi>pati<g ref="char:EOLhyphen"/>ence;</hi> if he conquer,
+<pb n="57" facs="tcp:36510:33"/>he reaps <hi>peace;</hi> in <hi>That</hi> he <hi>founds,</hi> in <hi>This</hi> he <hi>ſupports</hi> the <hi>Kingdome;</hi> if he be able to ſe<g ref="char:EOLhyphen"/>cond the <hi>peace</hi> of <hi>vi<g ref="char:EOLhyphen"/>ctory,</hi> with the <hi>grace</hi> of <hi>humility,</hi> he is the <hi>bree<g ref="char:EOLhyphen"/>der</hi> of all <hi>virtue,</hi> and the <hi>bane</hi> of all <hi>vice;</hi> for then <hi>good lawes</hi> are put in <hi>execution,</hi> and <hi>bad men</hi> in the <hi>houſe</hi> of <hi>correction;</hi> ſo neceſſa<g ref="char:EOLhyphen"/>ry he is in <hi>peace,</hi> that elſe we loſe it; ſo ne<g ref="char:EOLhyphen"/>ceſſary in <hi>war,</hi> that elſe we have no <hi>hope</hi> of it; ſo neceſſary in both, that no <hi>King<g ref="char:EOLhyphen"/>dome</hi> can ſubſiſt long without him: if you
+<pb n="58" facs="tcp:36510:34"/>chance to ſee him, you ſee a <hi>head</hi> quick of <hi>wit,</hi> a <hi>tongue</hi> full of <hi>eloquence,</hi> an <hi>eye</hi> of <hi>vi<g ref="char:EOLhyphen"/>gilance,</hi> a <hi>face</hi> of <hi>curte<g ref="char:EOLhyphen"/>ſie,</hi> a <hi>hand</hi> of <hi>bounty,</hi> and an <hi>heart</hi> of <hi>valour,</hi> and for his good parts, ſay, <hi>God bleſſe him,</hi> ſo that he remember and practiſe his <hi>leſſon,</hi>
+                     <q>Neminem concutit ene<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> calumniamini.</q>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="59" facs="tcp:36510:34"/>
+               <head>The Tradeſ-mans De<g ref="char:EOLhyphen"/>votion.</head>
+               <p>THis <hi>Calling</hi> is of a large <hi>ex<g ref="char:EOLhyphen"/>tent:</hi> For the <hi>extent</hi> of <hi>Trades</hi> is ve<g ref="char:EOLhyphen"/>ry large; ſo many ſe<g ref="char:EOLhyphen"/>veral <hi>Trades</hi> as there are, ſo many ſeveral <hi>callings</hi> to thoſe <hi>Trades</hi> there are too. The beſt marke whereby to know the <hi>lawfulneſs</hi> of a <hi>Trade,</hi> is, To find a ground for it in <hi>Scrip<g ref="char:EOLhyphen"/>ture;</hi> or, if <hi>humane In<g ref="char:EOLhyphen"/>ventions</hi> have found
+<pb n="60" facs="tcp:36510:35"/>out ſome <hi>Trades,</hi> that the <hi>Scipture</hi> gives no ground for; yet if the <hi>Scripture</hi> forbids it not the <hi>Trade</hi> is <hi>lawfull,</hi> and a man may lawful<g ref="char:EOLhyphen"/>ly make uſe of it; <hi>v.g.</hi> There is no mention made of a <hi>Chimney<g ref="char:EOLhyphen"/>ſweeper</hi> in the <hi>word of God,</hi> yet though there were nothing condu<g ref="char:EOLhyphen"/>cing to this <hi>Trade, This Trade</hi> notwithſtand<g ref="char:EOLhyphen"/>ing is <hi>lawfull,</hi> becauſe it is not forbidden; whereas on the other ſide, The <hi>Trades</hi> of <hi>U<g ref="char:EOLhyphen"/>ſury, and Pawn taking,</hi> are directly forbidden in the <hi>word of God,</hi> e<g ref="char:EOLhyphen"/>ſpecially
+<pb n="61" facs="tcp:36510:35"/>the latter, <hi>The taking of ſuch things to pawn as are neceſſary for livelyhood and ſubſiſtence.</hi>
+               </p>
+               <p>But I thank <hi>God</hi> my <hi>Profeſsion</hi> is not for<g ref="char:EOLhyphen"/>bidden; (for I am a <hi>Merchant,</hi> I am a <hi>Mer<g ref="char:EOLhyphen"/>cer,</hi> I am a <hi>Taylor,</hi> I am a <hi>Carpenter, &amp;c.</hi>) and therefore I may ſafely uſe it: and that I may uſe it honeſtly, I pray:</p>
+               <p>O God! who for the ſin of <hi>Adam</hi> haſt appointed, that every man ſhall earn his <hi>li<g ref="char:EOLhyphen"/>ving</hi> by the <hi>ſweat</hi> of his <hi>brows,</hi> and ſhall eate his <hi>bread</hi> in the <hi>ſweat</hi> of
+<pb n="62" facs="tcp:36510:36"/>his <hi>face,</hi> and haſt alſo forbidden that man to eate, who will not work; and to this end haſt ordained ſeveral <hi>Callings,</hi> to ſome whereof every parti<g ref="char:EOLhyphen"/>cular man ſhould ap<g ref="char:EOLhyphen"/>ply himſelf, whereby, with thy bleſſing, he ſhould provide for his <hi>family</hi> and <hi>poſterity;</hi> and amongſt all haſt called me to this <hi>Trade</hi> and <hi>courſe</hi> of life ( <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> ) and herein haſt promi<g ref="char:EOLhyphen"/>ſed to bleſs my honeſt <hi>labours</hi> and <hi>endeavors;</hi> I beſeech <hi>thee</hi> that I may <hi>comfortably</hi> and <hi>contentedly</hi> undergoe
+<pb n="63" facs="tcp:36510:36"/>it, without grudging thereat, as at ſome un<g ref="char:EOLhyphen"/>eaſie burthen, driving not onely at mine own <hi>private gain,</hi> but alſo at the <hi>publique good;</hi> not ſeeking <hi>Riches</hi> by wronging of others, by <hi>falſe weights, ſhort meaſures,</hi> or <hi>deceitfull work,</hi> (Be ſuch thoughts and things, <hi>ô God!</hi> ever far from me) but onely ſeeking a <hi>competency and honeſt encreaſe,</hi> doing to, and dealing by others, as I would others ſhould do to, and deal by me; and that I may ſo doe and deal, I beſeech
+<pb n="64" facs="tcp:36510:37"/>thee let me ever re<g ref="char:EOLhyphen"/>member, That the <hi>wa<g ref="char:EOLhyphen"/>ges of unrighteouſneſſe,</hi> and <hi>Riches</hi> gotten by <hi>wrong</hi> and <hi>Robbery,</hi> are put into a broken bag, and ſhall ſoon diminiſh and be devoured; or if they do continue, they ſhall be for my greater hurt, and ſuch proſpe<g ref="char:EOLhyphen"/>rity ſhall deſtroy me; That a little with <hi>thy bleſsing</hi> is better than <hi>great Revenues,</hi> with thy <hi>curſe;</hi> That thy <hi>all-ſeeing eye</hi> is ever beholding me in all my <hi>doings;</hi> and all my <hi>doings,</hi> however cloſe from the <hi>world,</hi>
+                  <pb n="65" facs="tcp:36510:37"/>are naked in <hi>thy ſight;</hi> Add to this <hi>grace</hi> of <hi>remembrance,</hi> the <hi>grace</hi> of <hi>holy care,</hi> whereby I may walk <hi>uprightly,</hi> and approve my ſelf before <hi>thee</hi> in an even behaviour toward all men; and if it ſhall pleaſe <hi>thee</hi> to bleſſe my <hi>labours,</hi> and increaſe my <hi>ſtore,</hi> by my honeſt <hi>induſtry;</hi> ô let me not ſet my heart upon that <hi>increaſe</hi> and make thoſe <hi>Riches</hi> my <hi>ſtrong City,</hi> leſt ſuch <hi>deceit<g ref="char:EOLhyphen"/>fulneſſe</hi> choak the <hi>ſeeds</hi> of thy <hi>graces</hi> in me, &amp; ſteal my heart from <hi>thee,</hi> from the <hi>Poor,</hi>
+                  <pb n="66" facs="tcp:36510:38"/>from my <hi>Calling;</hi> but let me follow my <hi>Cal<g ref="char:EOLhyphen"/>ling</hi> in an <hi>holy meaſure,</hi> not wholly ingulphing my ſelf into, nor whol<g ref="char:EOLhyphen"/>ly ſequeſtring my ſelf from the buſineſſe of it; but giving my ſelf all convenient oppor<g ref="char:EOLhyphen"/>tunities to ſerve <hi>thee</hi> in <hi>piety,</hi> and to relieve the <hi>Poor</hi> in <hi>charity;</hi> that when thou ſhalt put an end to theſe dayes of <hi>labour,</hi> thou mayeſt ſay unto me, <hi>Well done good and faithfull ſervant, enter into thy Maſters reſt.</hi> All which, and all other things needfull for me, I beg of thee
+<pb n="67" facs="tcp:36510:38"/>in the Name, and for the ſake of <hi>Jeſus Chriſt,</hi> ſaying as he hath taught me,</p>
+               <q>Our Father which art in Heaven, &amp;c.</q>
+               <div type="section">
+                  <head>The Tradeſ-mans Cha<g ref="char:EOLhyphen"/>racter.</head>
+                  <p>HE is a good <hi>Commonwealths-man,</hi> but a bad <hi>States<g ref="char:EOLhyphen"/>man;</hi> and then the beſt, when he meddles leaſt with it: The <hi>ware</hi> in his <hi>Shop,</hi> next to the <hi>care</hi> of his <hi>ſoul,</hi> ſhould take up his <hi>time</hi> and <hi>tongue:</hi> for if he make no <hi>conſcience</hi> how he ſpends his <hi>time,</hi> he
+<pb n="68" facs="tcp:36510:39"/>hath no care for <hi>eter<g ref="char:EOLhyphen"/>nity;</hi> and if he care not to guide his <hi>tongue,</hi> he ſets the <hi>Greater</hi> and the <hi>Leſſer, himſelf</hi> and the whole <hi>world,</hi> on fire and combuſtion: Happie he, if he praies aright, and endeavors to doe as he praies, without injuring his <hi>Cuſtomer</hi> by falſe <hi>weights</hi> and <hi>meaſures.</hi> Theſe and many more inſtructions are given him from the name of his <hi>Trade,</hi> whatſoever it is, ſince all <hi>Trades</hi> are called,
+<q>Inſtituta, Rationes, Mo<g ref="char:EOLhyphen"/>res, Diſciplinae.</q>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="69" facs="tcp:36510:39"/>
+               <head>To the Magistracy.</head>
+               <p>MY <hi>Calling</hi> is <hi>lawfull,</hi> whe<g ref="char:EOLhyphen"/>ther I be <hi>ſu<g ref="char:EOLhyphen"/>preme</hi> or <hi>ſubordinate;</hi> becauſe <hi>God</hi> made <hi>Da<g ref="char:EOLhyphen"/>vid ſupreme,</hi> and <hi>Moſes</hi> appointed the <hi>ſubordi<g ref="char:EOLhyphen"/>nate,</hi> both <hi>Juſtice</hi> of <hi>Peace,</hi> and <hi>Judge,</hi> and <hi>Lord Chief Justice,</hi> and <hi>Lord Keeper:</hi> onely if I am a <hi>Juſtice of Peace,</hi> I muſt reſolve theſe <hi>Queries.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Whether <hi>ambition</hi> or <hi>virtue</hi> ſet me on this <hi>Bench?</hi>
+               </p>
+               <pb n="70" facs="tcp:36510:40"/>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Whether I ſit upon this <hi>Bench,</hi> with an <hi>eye</hi> of <hi>fear</hi> to my <hi>Superiors,</hi> with an <hi>eye</hi> of <hi>favour</hi> to my <hi>Equals,</hi> with an <hi>eye</hi> of <hi>ſcorn</hi> to my <hi>In<g ref="char:EOLhyphen"/>feriors,</hi> or with an <hi>eye</hi> of <hi>impartiality</hi> to them all?</p>
+               <p>If I am a <hi>Judge,</hi> I muſt reſolve theſe <hi>Quaeries.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Whether I imitate <hi>Christ</hi> in <hi>his ſcarlet Gown</hi> and <hi>Minivere Hood?</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Whether as his <hi>Garments</hi> were red with the <hi>ſpoyle</hi> of <hi>his Enemies</hi> onely; ſo mine be red onely
+<pb n="71" facs="tcp:36510:40"/>with the <hi>ſpoyle</hi> of <hi>male<g ref="char:EOLhyphen"/>factors?</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> Whether as <hi>his hood</hi> was <hi>white</hi> by a <hi>holy conception,</hi> by a <hi>ſinleſſe life,</hi> and a <hi>ſaving death;</hi> ſo mine be <hi>white</hi> by an <hi>unſpotted converſati<g ref="char:EOLhyphen"/>on,</hi> without taking <hi>bribes</hi> to turn the <hi>ſtream</hi> of <hi>Juſtice</hi> into a ſtrange and contra<g ref="char:EOLhyphen"/>ry channell?</p>
+               <p>If I ſo live, I may then aſſure my ſelf, when I come to his <hi>Judgement Seat,</hi> I ſhall find him not <hi>Judex</hi> to condemn me, but <hi>Je<g ref="char:EOLhyphen"/>ſus</hi> to ſave me; and ſo I ſhall live, if I will
+<pb n="72" facs="tcp:36510:41"/>remember,
+<q>Judicium non mei, ſed Dei.</q>
+               </p>
+               <p>If I am a <hi>Lord Chief Juſtice,</hi> I muſt then reſolve theſe <hi>queries</hi> truly:</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Whether I com<g ref="char:EOLhyphen"/>pound the <hi>Ark</hi> of <hi>God</hi> with nothing but the <hi>Law</hi> of <hi>God?</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Whether from that <hi>Arke,</hi> I tell no man leſſe than his <hi>duty,</hi> I give no man more than his <hi>due; condem<g ref="char:EOLhyphen"/>nation</hi> if he be a <hi>tranſ<g ref="char:EOLhyphen"/>greſſor,</hi> without <hi>taunts; abſolution,</hi> if he be an <hi>obſerver</hi> of the <hi>Law,</hi> without <hi>bribes?</hi>
+               </p>
+               <pb n="73" facs="tcp:36510:41"/>
+               <p>If I doe ſo, I may then aſſure my ſelf, the <hi>incorruptible Law<g ref="char:EOLhyphen"/>giver</hi> will not con<g ref="char:EOLhyphen"/>demn me, though a <hi>corruptible Law-ex<g ref="char:EOLhyphen"/>pounder,</hi> becauſe I was not <hi>wilfully corrupted;</hi> and ſo I ſhall doe, if I remember,
+<q>Hoc fac, &amp; vives; ſin aliter, peribis.</q>
+               </p>
+               <p>If I am a <hi>Lord Kee<g ref="char:EOLhyphen"/>per,</hi> I muſt reſolve theſe <hi>Queries</hi> truly;</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Whether I behave my ſelf anſwerably to the <hi>Propitiatory</hi> upon the <hi>Arke?</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Whether I, like that <hi>covering,</hi> keep the
+<pb n="74" facs="tcp:36510:42"/>
+                  <hi>Law</hi> from a too ſevere pleading againſt the poor Client?</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> Whether I doe moderate the <hi>extremi<g ref="char:EOLhyphen"/>ty</hi> of <hi>Jus ſummum,</hi> for the maintenance of <hi>Aequum bonum?</hi>
+               </p>
+               <p>And this I ſhall doe, if I command my <hi>curſitory Angels</hi> to be<g ref="char:EOLhyphen"/>come <hi>Dii tutelares</hi> of ſeveral <hi>Shires;</hi> if I prohibit the ſending out of <hi>Fines,</hi> without the <hi>ſpunge</hi> of <hi>Repen<g ref="char:EOLhyphen"/>tance,</hi> to waſh out the <hi>tranſgreſsions</hi> of the <hi>Law.</hi>
+               </p>
+               <p>If I doe ſo, I ſhall find <hi>Chriſt</hi> as <hi>Chriſt</hi>
+                  <pb n="75" facs="tcp:36510:42"/>hath placed me, <hi>The poor mans Advocate,</hi> my <hi>Advocate</hi> with the <hi>Father,</hi> to plead <hi>his merits</hi> againſt my <hi>de<g ref="char:EOLhyphen"/>merites.</hi>
+               </p>
+               <q>Sicredo, vivam.</q>
+               <p>If I be <hi>Supreme, The Kings,</hi> I muſt then re<g ref="char:EOLhyphen"/>ſolve theſe <hi>Queries</hi> truly,</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Whether like the <hi>Sun,</hi> I give <hi>grace</hi> to <hi>Sa<g ref="char:EOLhyphen"/>turn, gravity</hi> to my <hi>Councellors?</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Whether I give <hi>might</hi> to <hi>Jupiter, re<g ref="char:EOLhyphen"/>ſpect</hi> unto my <hi>Nobles?</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> Whether I give <hi>for<g ref="char:EOLhyphen"/>titude</hi> to <hi>Mars, magna<g ref="char:EOLhyphen"/>nimity</hi> to my <hi>Soldiers?</hi>
+               </p>
+               <pb n="76" facs="tcp:36510:43"/>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> Whether I allow <hi>benevolence</hi> to <hi>Venus, beauty</hi> to my <hi>Ladies?</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> Whether I allow <hi>pyth</hi> to <hi>Mercury, Rhe<g ref="char:EOLhyphen"/>thorick</hi> and <hi>reward</hi> to my <hi>Scholars?</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> Whether I give <hi>con<g ref="char:EOLhyphen"/>ſtancy</hi> to the <hi>Moon, ſtedfaſtneſs</hi> and ſtabili<g ref="char:EOLhyphen"/>ty to the <hi>Commons?</hi>
+               </p>
+               <p>Or if the <hi>Sun</hi> tea<g ref="char:EOLhyphen"/>ches me not my <hi>duty</hi> ſufficiently; I will take it higher; and becauſe I am like <hi>God</hi> in all, only that I am a <hi>King</hi> of <hi>Men,</hi> and God is the <hi>King</hi> of <hi>Kings,</hi> I muſt reſolve theſe <hi>Caſes</hi> of <hi>Conſcience,</hi> be<g ref="char:EOLhyphen"/>cauſe
+<pb n="77" facs="tcp:36510:43"/>my <hi>Conſcience</hi> muſt anſwer for them to <hi>God;</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Whether my <hi>Throne</hi> be cloathed with <hi>Ma<g ref="char:EOLhyphen"/>jeſty?</hi> elſe my <hi>Sub<g ref="char:EOLhyphen"/>jects</hi> will not reſpect me.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Whether my <hi>Scep<g ref="char:EOLhyphen"/>ter</hi> be full of <hi>Mercy?</hi> elſe my <hi>Subjects</hi> will not love me.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> Whether my <hi>Chair</hi> be fathom'd with <hi>Juſtice?</hi> elſe my <hi>Sub<g ref="char:EOLhyphen"/>jects</hi> will not fear me.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> Whether my <hi>ſword</hi> be armed with <hi>Power?</hi> elſe my <hi>Soldiers</hi> will not obey me.</p>
+               <pb n="78" facs="tcp:36510:44"/>
+               <p>And becauſe <hi>God</hi> dwels <hi>in abſconditis,</hi> I muſt be careful that my <hi>Majeſty</hi> be not lookt upon by every eye.</p>
+               <p>And becauſe <hi>Gods juſtice</hi> is upright, I muſt ſecure my <hi>juſtice</hi> from being ſtaind by a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y <hi>bribes.</hi>
+               </p>
+               <p>And becauſe <hi>Gods mercy</hi> is not denyed to any <hi>ſinner,</hi> I muſt not deny my <hi>mercy</hi> to any <hi>Delinquent.</hi>
+               </p>
+               <p>And becauſe <hi>God</hi> will not ſuffer <hi>his Pow<g ref="char:EOLhyphen"/>er</hi> to be diſputed by any <hi>Tongue,</hi> I muſt preſerve my <hi>Power</hi> from the quarrel of
+<pb n="79" facs="tcp:36510:44"/>any Rebel; and when it is thus, I may pray with <hi>confidence.</hi>
+               </p>
+               <p>But now I think upon it, I ſhall not be ſo ſawcy, as to ſet down a <hi>Prayer</hi> for theſe great <hi>perſons;</hi> be<g ref="char:EOLhyphen"/>cauſe <hi>Juſtices,</hi> and <hi>Judges,</hi> and <hi>Lord Chief Juſtices,</hi> and <hi>Lord Keepers,</hi> and <hi>Kings,</hi> know better how to pray, than I to inform them; only I hope without offence, I may pray for them, and the whole world thus,</p>
+               <p>From <hi>peſtilence, fa<g ref="char:EOLhyphen"/>mine,</hi> and <hi>war;</hi> from
+<pb n="80" facs="tcp:36510:45"/>
+                  <hi>earth-quakes, inundati<g ref="char:EOLhyphen"/>ons,</hi> and great <hi>fires,</hi> from the <hi>plagues</hi> of <hi>immoderate rains,</hi> and <hi>droughts;</hi> from <hi>corrup<g ref="char:EOLhyphen"/>ting winds,</hi> and <hi>bla<g ref="char:EOLhyphen"/>ſtings;</hi> from <hi>thunder, lightning,</hi> and <hi>tem<g ref="char:EOLhyphen"/>peſts;</hi> from <hi>epidemicall</hi> and <hi>ſharp diſeaſes,</hi> and from <hi>ſuddain death,</hi>
+                  <q>Deliver the whole world, good Lord!</q>
+               </p>
+               <p>From <hi>private inter<g ref="char:EOLhyphen"/>pretations</hi> of <hi>Scriptures;</hi> from <hi>innovations in ho<g ref="char:EOLhyphen"/>ly things</hi> from ſtrange <hi>doctrines,</hi> from <hi>doating about queſtions,</hi> from <hi>hereſies, ſchiſms,</hi> and <hi>ſcandals, publick</hi> and
+<pb n="81" facs="tcp:36510:45"/>
+                  <hi>private,</hi>
+                  <q>Deliver thy whole Church, good Lord!</q>
+               </p>
+               <p>From the <hi>Prieſthood</hi> of <hi>Micah</hi> and <hi>Jerobo<g ref="char:EOLhyphen"/>am,</hi> from the <hi>combina<g ref="char:EOLhyphen"/>tion</hi> of <hi>Judas Iſcariot,</hi> and <hi>Simon Magus,</hi> from the <hi>doctrins</hi> of the <hi>unſtable,</hi> and the <hi>unlearned,</hi> from the <hi>pride</hi> of <hi>novices,</hi> and from <hi>people</hi> that ſtrive with the <hi>Prieſt,</hi>
+                  <q>Deliver this Church, good Lord!</q>
+               </p>
+               <p>From <hi>forain invaſi<g ref="char:EOLhyphen"/>on,</hi> and <hi>civil inſurre<g ref="char:EOLhyphen"/>ction,</hi> from <hi>diſplacing good Magiſtrates,</hi> and <hi>exalting bad,</hi> from the
+<pb n="82" facs="tcp:36510:46"/>
+                  <hi>maſſacre</hi> of <hi>Athaliah,</hi> and from the <hi>bloodi<g ref="char:EOLhyphen"/>neſſe</hi> of <hi>Herod.</hi>
+               </p>
+               <q>Deliver this nation, good Lord!</q>
+               <p>From the <hi>Anarchy</hi> of <hi>Corah,</hi> and <hi>Dathan,</hi> from the <hi>tyranny</hi> of <hi>A<g ref="char:EOLhyphen"/>ſhur,</hi> and <hi>Achab,</hi> from the <hi>dangerous counſil</hi> of <hi>Achitopel,</hi> and the <hi>foo<g ref="char:EOLhyphen"/>liſh counſil</hi> of <hi>Zoan,</hi> from the <hi>Statutes</hi> of <hi>Omri,</hi> and the <hi>Judge<g ref="char:EOLhyphen"/>ments</hi> of <hi>Jeſabel;</hi> from the <hi>floods</hi> of <hi>Belial,</hi> and from the <hi>plagues</hi> of <hi>Peor.</hi>
+               </p>
+               <q>Deliver the ſtate of this Nation, good Lord!</q>
+               <pb n="83" facs="tcp:36510:46"/>
+               <p>From the <hi>pride</hi> of the <hi>Amorite,</hi> from the <hi>envy</hi> of the <hi>Hittite,</hi> from the <hi>anger</hi> of the <hi>Perizzite,</hi> from the <hi>gluttony</hi> of the <hi>Gerga<g ref="char:EOLhyphen"/>ſhite,</hi> from the <hi>wanton<g ref="char:EOLhyphen"/>neſſe</hi> of the <hi>Hivite,</hi> from the <hi>worldlineſſe</hi> of the <hi>Cananite,</hi> and <hi>lukewarmneſſe</hi> of the <hi>Jebuſite,</hi>
+                  <q>Deliver this City, good Lord! <hi>for</hi> Jeſus Chriſt his ſake. Amen.</q>
+               </p>
+               <p>In whoſe bleſſed name and words. <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="84" facs="tcp:36510:47"/>
+               <head>To the condemned to dye.</head>
+               <p>YOur time is ſhort, &amp; there<g ref="char:EOLhyphen"/>fore my diſ<g ref="char:EOLhyphen"/>courſe to you ſhall not be long; not many <hi>dayes</hi> betwixt you and <hi>death,</hi> and therefore not many <hi>words,</hi> leſt I keep you from the thought of <hi>death.</hi> I dare not be ſo <hi>unchri<g ref="char:EOLhyphen"/>ſtian,</hi> as to think you prepare not your ſelves for the laſt <hi>fatal ſtroak;</hi> and therefore
+<pb n="85" facs="tcp:36510:47"/>one onely prayer for you from me, if you have not a better from others for your ſelves.</p>
+               <p>
+                  <hi>O God!</hi> moſt <hi>power<g ref="char:EOLhyphen"/>full,</hi> yet moſt <hi>pitifull;</hi> by thy <hi>Power</hi> preſerve them that are appoin<g ref="char:EOLhyphen"/>ted to dye, and redeem them from the <hi>ſentence of death,</hi> which is paſt upon them, if it may ſtand with <hi>thy Good<g ref="char:EOLhyphen"/>neſſe.</hi>
+               </p>
+               <p>But if <hi>thy Providence</hi> hath appointed this time for their <hi>period,</hi> and this way for their <hi>diſſolution,</hi> yet by thy <hi>pity</hi> ſave their <hi>ſouls</hi> from <hi>eternal death,</hi> and
+<pb n="86" facs="tcp:36510:48"/>grant them all thoſe <hi>graces</hi> which are ne<g ref="char:EOLhyphen"/>ceſſary for their <hi>ſal<g ref="char:EOLhyphen"/>vation.</hi>
+               </p>
+               <p>Remember not their <hi>ignorances,</hi> Forget the ſins of their <hi>youth,</hi> and Forgive the ſins of their <hi>age;</hi> Give them a <hi>ſight</hi> of all their ſins, Give them a <hi>ſenſe</hi> of all their ſins, and true <hi>repentance</hi> to bewail; them; Give them a <hi>ſight</hi> of all thy <hi>Promi<g ref="char:EOLhyphen"/>ſes,</hi> Give them a <hi>ſenſe</hi> of all thy <hi>Promiſes,</hi> and true <hi>faith</hi> to apply them.</p>
+               <p>Suffer not their <hi>Ghoſtly enemies</hi> to aſ<g ref="char:EOLhyphen"/>ſault
+<pb n="87" facs="tcp:36510:48"/>them to any pre<g ref="char:EOLhyphen"/>ſent <hi>deſperation,</hi> for their former <hi>preſump<g ref="char:EOLhyphen"/>tions</hi> againſt thy <hi>Ju<g ref="char:EOLhyphen"/>ſtice.</hi>
+               </p>
+               <p>Send thy <hi>holy An<g ref="char:EOLhyphen"/>gels</hi> to take their <hi>ſouls,</hi> as they did the <hi>ſoul</hi> of <hi>Lazarus,</hi> and carry them into <hi>Abrahams boſome;</hi> and let <hi>thy everlaſting Gates</hi> be o<g ref="char:EOLhyphen"/>pen to receive them, for <hi>his ſake,</hi> who by overcoming <hi>the ſharp<g ref="char:EOLhyphen"/>neſſe</hi> hath opened the <hi>Kingdom of Heaven</hi> to all <hi>Beleevers.</hi>
+               </p>
+               <p>Make &amp; keep their <hi>ſen<g ref="char:EOLhyphen"/>ſes</hi> intire, their <hi>under<g ref="char:EOLhyphen"/>ſtandings</hi> right, their
+<pb n="88" facs="tcp:36510:49"/>
+                  <hi>penitence</hi> unfeigned, their <hi>hope</hi> well ground<g ref="char:EOLhyphen"/>ed, their <hi>faith</hi> firm, and their <hi>charity</hi> perfect.</p>
+               <p>Give them, ô give them a quiet and joy<g ref="char:EOLhyphen"/>full <hi>departure,</hi> by car<g ref="char:EOLhyphen"/>rying their <hi>eyes</hi> back unto <hi>Jeſus,</hi> who died for them, and forward to thoſe <hi>Joyes,</hi> which are purchaſed for them, by the <hi>life</hi> and <hi>death</hi> of <hi>Jeſus Chriſt. Amen.</hi> In whoſe moſt bleſſed Name and words I further call upon thee, as he hath taught me, ſaying,</p>
+               <p>
+                  <hi>Our Father which art in Heaven, &amp;c.</hi>
+               </p>
+               <pb n="89" facs="tcp:36510:49"/>
+               <p>Or if any ſin lies hea<g ref="char:EOLhyphen"/>vy upon thy ſoul, and thou canſt not have thoſe aſſiſtances thou deſireſt, then confeſs thy ſins, and comfort thy ſoul in this, or ſuch a kind of <hi>Devotion</hi> as this.</p>
+               <p>Behold, ô <hi>God!</hi> I was conceived in ſin,
+<note place="margin">Pſal. 51.</note> and brought forth in iniquity; and there<g ref="char:EOLhyphen"/>fore I pray,
+<q>God be mercifull to me a ſinner.</q>
+               </p>
+               <p>And mercy I hope to have, Becauſe my <hi>Saviour</hi> was concei<g ref="char:EOLhyphen"/>ved by <hi>the Holy Ghoſt,</hi>
+                  <note place="margin">Luc. 1.</note> and born in <hi>innocency,</hi>
+                  <pb n="90" facs="tcp:36510:50"/>not for <hi>himſelf,</hi> but me; for which,
+<q>My ſoul doth magni<g ref="char:EOLhyphen"/>fie thee, ô Lord!</q>
+               </p>
+               <p>But I have diſcour<g ref="char:EOLhyphen"/>ſed with the <hi>Devil,</hi>
+                  <note place="margin">Gen. 3.</note> and at his <hi>temptations</hi> have taſted the forbid<g ref="char:EOLhyphen"/>den fruit; and there<g ref="char:EOLhyphen"/>fore I pray,
+<q>God be mercifull to me a ſinner.</q>
+               </p>
+               <p>And mercy I hope to have, Becauſe my <hi>Saviour wreſtled</hi> with, and overcame the <hi>De<g ref="char:EOLhyphen"/>vil</hi> for me;
+<note place="margin">Mat. 4.</note> for which,
+<q>My ſoul, doth magni<g ref="char:EOLhyphen"/>fie thee, O Lord!</q>
+               </p>
+               <p>But I have commit<g ref="char:EOLhyphen"/>ted all ſin, and kept the
+<pb n="91" facs="tcp:36510:50"/>
+                  <hi>poyſon of Aſps</hi> under my <hi>lips;</hi>
+                  <note place="margin">Pſal.</note> and therefore I pray,
+<q>God be mercifull to me a ſinner.</q>
+               </p>
+               <p>And mercy I hope to have, Becauſe my <hi>Saviour</hi> did no <hi>ſin,</hi>
+                  <note place="margin">1 Petr.</note> nei<g ref="char:EOLhyphen"/>ther was any <hi>guile</hi> found in his lips; for which,
+<q>My ſoul doth magni<g ref="char:EOLhyphen"/>fie thee, ô Lord!</q>
+               </p>
+               <p>But I have fulfilled the <hi>will</hi> of the <hi>fleſh</hi> too,
+<note place="margin">Pſal.</note> and done no good; and therefore I pray,
+<q>God be mercifull to me a ſinner.</q>
+               </p>
+               <p>And mercy I hope to have, Becauſe my
+<pb n="92" facs="tcp:36510:51"/>
+                  <hi>Saviour</hi> fulfilled thy will,
+<note place="margin">Joh.</note> and did all good for me; for which,
+<q>My ſoul doth magni<g ref="char:EOLhyphen"/>fie thee, ô Lord!</q>
+               </p>
+               <p>But I have defiled my <hi>body,</hi>
+                  <note place="margin">Gen.</note> as <hi>Onan</hi> by <hi>Pollution,</hi> if not as <hi>Ju<g ref="char:EOLhyphen"/>dah</hi> by <hi>Fornication,</hi>
+                  <note place="margin">Gen.</note> if not as <hi>David</hi> by <hi>Adul<g ref="char:EOLhyphen"/>tery,</hi>
+                  <note place="margin">1 Sam. 11.</note> if not as <hi>Ammon</hi> by <hi>Inceſt,</hi> if not as the <hi>Sodomites</hi> by <hi>Beſtiali<g ref="char:EOLhyphen"/>ty;</hi> and therefore I pray,
+<q>God be mercifull to me a ſinner.</q>
+               </p>
+               <p>And mercy yet I hope to have, Becauſe my <hi>Saviour</hi> offered <hi>his Body</hi> to the <hi>knife of
+<note place="margin">Luc. 2.</note>
+                     <pb n="93" facs="tcp:36510:51"/>Circumciſion,</hi> to the <hi>water of Baptiſme,</hi>
+                  <note place="margin">Mat. 3.</note> to the <hi>Curſe</hi> of the <hi>Tree,</hi> to the <hi>Death</hi> of the <hi>Croſſe;</hi> and all this to expiate the ſins of my <hi>body;</hi> for which,
+<note place="margin">Philip 2.</note>
+                  <q>My ſoul doth magni<g ref="char:EOLhyphen"/>fie thee, ô Lord!</q>
+               </p>
+               <p>But mine <hi>hands</hi> have been lifted up a<g ref="char:EOLhyphen"/>gainſt <hi>Heaven;</hi> and therefore I pray,
+<q>God be mercifull to me a ſinner.</q>
+               </p>
+               <p>And <hi>mercy</hi> yet I hope to have, Becauſe my <hi>Saviours hands</hi> in <hi>Heaven</hi> are, as upon the <hi>Croſſe</hi> they were, ſtretched out to
+<pb n="94" facs="tcp:36510:52"/>embrace me; for which,
+<q>My ſoul doth magni<g ref="char:EOLhyphen"/>fie thee, O Lord!</q>
+               </p>
+               <p>But my <hi>feet,</hi> my ve<g ref="char:EOLhyphen"/>ry <hi>feet</hi> have been ſwift to ſhed the <hi>blood</hi> of <hi>Re<g ref="char:EOLhyphen"/>venge;</hi> and therefore I pray,
+<q>God be mercifull to me a ſinner.</q>
+               </p>
+               <p>And <hi>mercy</hi> yet I hope to have, Becauſe my <hi>Saviours feet</hi> were nail'd, to ſhed the <hi>blood</hi> of <hi>Attonement</hi> for me; for which,
+<q>My ſoul doth magni<g ref="char:EOLhyphen"/>fie thee, ô Lord!</q>
+               </p>
+               <p>But my <hi>heart,</hi> my inmoſt and remoteſt
+<pb n="95" facs="tcp:36510:52"/>
+                  <hi>heart,</hi> hath been filled with <hi>evil imaginati<g ref="char:EOLhyphen"/>ons,</hi> and that continu<g ref="char:EOLhyphen"/>ally; and therefore I dare not but continue to pray,
+<q>God be mercifull to me a ſinner.</q>
+               </p>
+               <p>And <hi>mercy</hi> yet I hope to have, Becauſe my <hi>Saviours Heart</hi> was <hi>pierced,</hi> to offer up the <hi>blood of ſatisfaction</hi> for the ſins of my <hi>heart;</hi> for which,
+<q>My ſoul doth magni<g ref="char:EOLhyphen"/>fie thee, ô Lord!</q>
+               </p>
+               <p>But my <hi>ſoul,</hi> my once moſt precious ſoul, I have defaced by all manner of un<g ref="char:EOLhyphen"/>godlineſſe;
+<pb n="96" facs="tcp:36510:53"/>and there<g ref="char:EOLhyphen"/>fore I pray,
+<q>God he mercifull to me a ſinner.</q>
+               </p>
+               <p>And <hi>mercy</hi> I yet hope to have, Becauſe my <hi>Saviours ſoul</hi> de<g ref="char:EOLhyphen"/>ſcended <hi>victoriouſly,</hi> to trample upon the ene<g ref="char:EOLhyphen"/>mies of my <hi>ſoul;</hi> for which,
+<q>My ſoul doth magni<g ref="char:EOLhyphen"/>fie thee, ô Lord!</q>
+               </p>
+               <p>But yet in my <hi>Body</hi> I can ſee nothing but <hi>wounds,</hi> in my <hi>ſoul,</hi> no<g ref="char:EOLhyphen"/>thing but <hi>ſoars,</hi> in my <hi>life,</hi> nothing but <hi>ſins,</hi> and therefore I pray,
+<q>God be mercifull to me a ſinner.</q>
+               </p>
+               <pb n="97" facs="tcp:36510:53"/>
+               <p>And <hi>mercy</hi> I yet hope to have, Becauſe in my <hi>Jeſus</hi> I ſee <hi>balme</hi> enough to cure my <hi>wounds;</hi> in thy <hi>Chriſt</hi> I ſee <hi>unction</hi> enough to heale my <hi>ſoares;</hi> In his <hi>life</hi> obedience, and in that <hi>obedience, merit</hi> enough to par<g ref="char:EOLhyphen"/>don my ſins: In his <hi>death patience;</hi> and in that <hi>patience, redempti<g ref="char:EOLhyphen"/>on</hi> enough to ſave my <hi>ſoul;</hi> In his <hi>blood inno<g ref="char:EOLhyphen"/>cence,</hi> and in that <hi>inno<g ref="char:EOLhyphen"/>cence, ſatisfaction</hi> e<g ref="char:EOLhyphen"/>nough to cure my <hi>wounds,</hi> to heal my <hi>ſears,</hi> to pardon my <hi>ſins,</hi> to ſave my <hi>ſoul;</hi>
+                  <pb n="98" facs="tcp:36510:54"/>in <hi>his Deſcent, Humili<g ref="char:EOLhyphen"/>ty;</hi> in his <hi>Reſurrection</hi> and <hi>Aſcenſion, Hope;</hi> in his <hi>Interceſsion, Com<g ref="char:EOLhyphen"/>fort;</hi> for he is now at thy right hand to make <hi>interceſsion</hi> for me; and for which,
+<q>My ſoul doth magni<g ref="char:EOLhyphen"/>fie thee, ô Lord!</q>
+               </p>
+               <p>But yet, but yet, I have trampled that <hi>blood</hi> under foot, I have crucified my <hi>Je<g ref="char:EOLhyphen"/>ſus</hi> afreſh; and there<g ref="char:EOLhyphen"/>fore dare not but pray afreſh,
+<q>God be mercifull to me a ſinner.</q>
+               </p>
+               <p>But yet, but yet, but yet, I am the greateſt
+<pb n="99" facs="tcp:36510:54"/>ſinner upon the face of the whole <hi>Earth;</hi> for <hi>who,</hi> or what <hi>man,</hi> or <hi>devil,</hi> durſt to doe <hi>what</hi> I have done? I have broke all thy <hi>commandements,</hi> I have broken all my <hi>vows;</hi> for better <hi>obedience,</hi> and that even to this moment of my life, the very laſt moment of my life, and there<g ref="char:EOLhyphen"/>fore will pray ſo long as life doth laſt,
+<q>God be mercifull to me a ſinner.</q>
+               </p>
+               <p>And <hi>mercy</hi> yet I hope to have, Becauſe that ſaying which is worthy of all accep<g ref="char:EOLhyphen"/>tation,
+<pb n="100" facs="tcp:36510:55"/>is believed by me, and I deſire I may believe it, to the very laſt minute, <hi>Jeſus Chriſt came into the world to ſave ſinners,</hi> even my ſelf the chiefeſt of ſinners; for which,
+<q>My ſoul doth magni<g ref="char:EOLhyphen"/>fie thee, ô Lord!</q>
+               </p>
+               <p>And now moſt <hi>gra<g ref="char:EOLhyphen"/>cious God!</hi> I beſeech thee to accept of my <hi>reſolutions,</hi> and to ac<g ref="char:EOLhyphen"/>compliſh them in my true, though weak, and late endeavours; and look upon me, nor as I am in my ſelf, but as I am in thy <hi>Sen,
+<pb n="101" facs="tcp:36510:55"/>waſhed, waſhed in his Baptiſm,</hi> as well from my <hi>actuall trangreſsi<g ref="char:EOLhyphen"/>ons</hi> I have committed ſince, as from my <hi>ori<g ref="char:EOLhyphen"/>ginal corruption,</hi> I ſtood guilty of before I was <hi>baptized;</hi> look upon me, <hi>ô my God!</hi> as I am <hi>in thy Son, clothed, clothed</hi> with <hi>his righte<g ref="char:EOLhyphen"/>ouſneſſe;</hi> for <hi>his love</hi> clothed <hi>himſelf</hi> with the <hi>imputation</hi> of my <hi>wickedneſſe;</hi> and doth not <hi>thy gift</hi> of <hi>faith</hi> cloth me with the <hi>im<g ref="char:EOLhyphen"/>putation</hi> of his <hi>righte<g ref="char:EOLhyphen"/>ouſneſſe?</hi> I doe believe the one, <hi>That he came into the world;</hi> and I
+<pb n="102" facs="tcp:36510:56"/>deſire to believe the other, <hi>That he came in<g ref="char:EOLhyphen"/>to the world to ſave me;</hi> for I am a <hi>ſinner, the chief of ſinners;</hi> look upon me, ô my <hi>God!</hi> as I am <hi>in thy Son, healed; healed</hi> by <hi>his ſtripes;</hi> for <hi>the</hi> bled to ſave the whole <hi>Bo<g ref="char:EOLhyphen"/>dy,</hi> the <hi>Church;</hi> and of that <hi>body,</hi> I am a <hi>mem<g ref="char:EOLhyphen"/>ber;</hi> and doe not, ô <hi>God!</hi> doe not ſuffer a<g ref="char:EOLhyphen"/>ny <hi>member</hi> of thy <hi>Sons body</hi> to periſh; look upon me ô my <hi>God!</hi> as I am in thy <hi>Son, recon<g ref="char:EOLhyphen"/>ciled,</hi> and at <hi>peac with thee;</hi>
+                  <note place="margin">Rom 5.1</note> for <hi>being juſt fied by faith, I have peace
+<pb n="103" facs="tcp:36510:56"/>with God through Jeſus Chriſt our Lord.</hi>
+               </p>
+               <p>Look upon me ſo, <hi>ô God!</hi> and thy <hi>bap<g ref="char:EOLhyphen"/>tiſm</hi> ſhall cleanſe me, cleanſe me as well from <hi>future filth,</hi> as from <hi>paſſed guilt;</hi> look upon me ſo, <hi>ô God!</hi> and thy other <hi>bleſſed Sacrament,</hi> which I have now (or ſhall by and by receive) recei<g ref="char:EOLhyphen"/>ved, ſhall preſerve me unto <hi>everlaſting life;</hi> otherwiſe I dare not look upon thee, but in the <hi>Face</hi> of <hi>Jeſus Chriſt;</hi> and otherwiſe, I beſeech <hi>thee,</hi> look not upon me, but
+<pb n="104" facs="tcp:36510:57"/>through the <hi>merits</hi> of <hi>Jeſus Chriſt;</hi> in whoſe bleſſed name and pre<g ref="char:EOLhyphen"/>ſence, I promiſe thee new and better <hi>obedi<g ref="char:EOLhyphen"/>ence,</hi> (if I live) and for whoſe bleſſed ſake and <hi>merits,</hi> I beg thy <hi>aſsiſtance,</hi> that I may have <hi>victory over ſin, victory</hi> over the <hi>com<g ref="char:EOLhyphen"/>manding power</hi> of it, and never again obey it in the <hi>luſts</hi> of my <hi>mortal body,</hi> while I live, nor never <hi>deſpaire</hi> under the <hi>condemning guilt</hi> of it when I dye, but now while I <hi>live,</hi> and then when I dye, be cured of all the
+<pb n="105" facs="tcp:36510:57"/>
+                  <hi>ſtings</hi> I have received from the <hi>fiery Serpents,</hi> of the <hi>World,</hi> the <hi>De<g ref="char:EOLhyphen"/>vil,</hi> and mine own <hi>fleſh,</hi> by fixing the <hi>eyes</hi> of my <hi>faith</hi> upon the <hi>true braſen Serpent, Je<g ref="char:EOLhyphen"/>ſus Chriſt. Amen.</hi> In whoſe bleſſed name and words I conclude my prayer and life, in that moſt perfect form of prayer, which he hath taught me <hi>in his holy Goſpel,</hi> ſaying, when yee pray, ſay,
+<q>Our Father which art in Heaven, &amp;c.</q>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="106" facs="tcp:36510:58"/>
+               <head>To my Benefactors.</head>
+               <p>YOu are <hi>bleſſed men,</hi> ſo the <hi>Pſal<g ref="char:EOLhyphen"/>miſt</hi> tells you;
+<note place="margin">Pſal 41.1.</note> 
+                  <hi>Bleſſed is the man that conſiders the poor and needy:</hi> So my <hi>ſaviour</hi> tels you, <hi>Come ye bleſſed of my Father; For yee gave me meat when I was hungry;
+<note place="margin">Mat 25.</note> ye viſited me when I was in p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<g ref="char:EOLhyphen"/>ſon:</hi> So <hi>St. Paul</hi> tells you; <hi>It is a better thing to give, than to receive.</hi>
+               </p>
+               <pb n="107" facs="tcp:36510:58"/>
+               <p>Such bleſſed men I have hitherto met with in my <hi>hunger,</hi> in my <hi>thirſt,</hi> in my <hi>mpri<g ref="char:EOLhyphen"/>ſonment,</hi> in my <hi>naked<g ref="char:EOLhyphen"/>neſſe;</hi> Their <hi>bleſſed<g ref="char:EOLhyphen"/>neſſe</hi> hath bleſſed me; and they have made themſelves <hi>more bleſ<g ref="char:EOLhyphen"/>ſed,</hi> by the <hi>law</hi> of <hi>bene<g ref="char:EOLhyphen"/>ficence,</hi> which is, <hi>they forget their charity:</hi> But I may not make my ſelf <hi>curſed,</hi> by for<g ref="char:EOLhyphen"/>getting my <hi>duety,</hi> in the <hi>law</hi> of <hi>gratitude;</hi> No, I will remember my <hi>Duty,</hi> by remem<g ref="char:EOLhyphen"/>bring <hi>God, not to forget their labor of love,</hi> becauſe they have not
+<pb n="98" facs="tcp:36510:59"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="99" facs="tcp:36510:59"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="100" facs="tcp:36510:60"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="101" facs="tcp:36510:60"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="102" facs="tcp:36510:61"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="103" facs="tcp:36510:61"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="104" facs="tcp:36510:62"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="105" facs="tcp:36510:62"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="106" facs="tcp:36510:63"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="107" facs="tcp:36510:63"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="108" facs="tcp:36510:64"/>forgot to doe good to them that are in <hi>bonds,</hi> and particularly to my ſelf, the worſt and unworthieſt of the reſt.</p>
+               <p>To you, my <hi>Be<g ref="char:EOLhyphen"/>nefactors,</hi> I ſay, <hi>Be not weary of well do<g ref="char:EOLhyphen"/>ing; You ſhall reap, if you faint not.</hi>
+               </p>
+               <p>To <hi>God</hi> I pray, <hi>Reward them ſeven<g ref="char:EOLhyphen"/>fold, ô God! with Grace and Plenty here, with Glory and Eternity hereafter.</hi>
+               </p>
+               <p>From <hi>Him,</hi> I aſ<g ref="char:EOLhyphen"/>ſure you of both, if you add but your own <hi>Faith,</hi> to the <hi>De<g ref="char:EOLhyphen"/>votion</hi>
+                  <pb n="109" facs="tcp:36510:64"/>of your <hi>Beadſ<g ref="char:EOLhyphen"/>man,</hi> with whom</p>
+               <q>Vindicta oneri, Gratia in quaeſtu habetur.</q>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
